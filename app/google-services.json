@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "174069921560",
+    "firebase_url": "https://chessup-18f70-default-rtdb.firebaseio.com",
+    "project_id": "chessup-18f70",
+    "storage_bucket": "chessup-18f70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174069921560:android:46e3fcf57515500059d06d",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Ijj35SR-BE7hCVC4fd-3OSOAMB2Dwl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

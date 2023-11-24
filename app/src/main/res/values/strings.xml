@@ -1,0 +1,41 @@
+<resources>
+
+    <string name="app_name">Шахматы</string>
+
+    <!-- Titles -->
+    <string name="login_title">ВХОД</string>
+    <string name="register_title">РЕГИСТАРЦИЯ</string>
+    <string name="menu_title">МЕНЮ</string>
+    <string name="rank_title">РЕЙТИНГ</string>
+
+
+    <string name="name_title">Имя</string>
+    <string name="username_title">Никнейм</string>
+    <string name="password_title">Пароль</string>
+    <string name="confirm_password_title">Подтвердите пароль</string>
+    <string name="score_title">Очки</string>
+
+    <string name="win">Победа</string>
+    <string name="lose">Проигрыш</string>
+
+    <!-- Sub-Title -->
+    <string name="splash_screen_sub_title">ШАХМАТЫ</string>
+
+
+    <!-- Button -->
+    <string name="sign_in_button">Войти</string>
+    <string name="sign_up_button">Зарегистрироваться</string>
+    <string name="create_button">Играть с другом</string>
+    <string name="join_button">Играть одному</string>
+    <string name="leaderboard_button">Рейтинг</string>
+    <string name="ok_button">OK</string>
+    <string name="play_button">Играть</string>
+    <string name="give_up">Сдаться</string>
+    <string name="last_name">Имя</string>
+    <string name="first_name">Фамилия</string>
+    <string name="email">Email</string>
+    <string name="logout_button">О программе</string>
+
+    <string name="about_prog">Добро пожаловать в мое приложение шахматы!\n\nЭто приложение было создано во время учебной практики.\n\nНаслаждайтесь игрой в шахматы на своём мобильном устройстве.</string>
+
+</resources>
